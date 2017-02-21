@@ -42,4 +42,4 @@ A Movie Trailer Website will be create when you run "entertainment_center.py" wh
   
 ## Download the project 
  
-  - you can download throght this [link]()
+  - you can download throght this [link](https://github.com/engmohy90/Movie-Trailer-Website/releases)
